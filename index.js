@@ -33,7 +33,7 @@ function iLoveTheBeatles(num){
   var emp = [];
   var i = 0;
   do {
-    emp[i] = "I love the Beatles!";
+    emp.push = "I love the Beatles!";
     i++;
     num++;
     
