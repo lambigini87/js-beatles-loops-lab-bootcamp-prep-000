@@ -30,10 +30,10 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(num){
-  
+   var emp = [];
   
   do {
-    var emp = [];
+   
     var i = 0;
     emp[i] = 'I love the Beatles!';
     i++;
